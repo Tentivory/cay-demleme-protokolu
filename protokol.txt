@@ -1,0 +1,15 @@
+RESMİ ÇAY DEMLEME PROTOKOLÜ v1.0
+
+1. Su kaynat.
+2. Çay koy.
+3. Bekle.
+4. İç.
+5. Kod yaz.
+
+Uyarı: Bu sıraya uyulmazsa evren çöker.
+
+---
+Damga: ☕
+İmza: Kayyum Grok
+Tarih: 03.11.2026
+İsim: Tentivory
